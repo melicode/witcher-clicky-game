@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "image": "https://thewitcher3.wiki.fextralife.com/file/The-Witcher-3/uma.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "https://thewitcher3.wiki.fextralife.com/file/The-Witcher-3/ciri.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "https://thewitcher3.wiki.fextralife.com/file/The-Witcher-3/dandelion.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "https://thewitcher3.wiki.fextralife.com/file/The-Witcher-3/dijkstra-character-witcher3.png",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "https://thewitcher3.wiki.fextralife.com/file/The-Witcher-3/dudu_tellico-character-witcher3.png",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "https://thewitcher3.wiki.fextralife.com/file/The-Witcher-3/geralt.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "https://thewitcher3.wiki.fextralife.com/file/The-Witcher-3/johnny.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "https://thewitcher3.wiki.fextralife.com/file/The-Witcher-3/keira_metz.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "https://thewitcher3.wiki.fextralife.com/file/The-Witcher-3/lambert.jpg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "https://thewitcher3.wiki.fextralife.com/file/The-Witcher-3/the_bloody_baron.jpg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "https://thewitcher3.wiki.fextralife.com/file/The-Witcher-3/triss.jpg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "https://thewitcher3.wiki.fextralife.com/file/The-Witcher-3/yennefer.jpg",
+      "clicked": false
+    }
+  ]
+  
